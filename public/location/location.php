@@ -100,7 +100,7 @@
       }}
     </script>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDPg6zrbn3ZAjeVUnUVLAhr05ceQsFRNFI&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key="insert your"&callback=initMap">
     </script>
   </body>
 </html>
